@@ -1,0 +1,113 @@
+body{
+    font-family: "Montserrat";
+   
+
+}
+
+#title{
+    
+    background-image: url(../images/head.jfif);
+    color:#fff;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.image{
+    border-radius: 100px;
+     width: 90%;  
+     padding-top: 20px;
+     transform: rotate(15deg);
+}
+h1{
+    
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    padding-top: 80px;
+}
+
+.navbar{
+    padding-bottom: 0 0 3rem;
+   
+}   
+
+.navbar-brand{
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: 'Montserrat';
+   
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Montserrat-light';
+}
+
+#about{
+   background-image: url(../images/plane.jpg);
+   padding: 3% 0;
+   color: #fff;
+   
+}
+.logo{
+    width: 80%;
+    border-radius: 120px;
+    padding-top: 20px;
+    
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    text-align: center;
+    
+}
+ul{
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    line-height: 1.5;
+    font-size: 1.2rem;
+}
+li{
+    padding: 5px;
+}
+
+#skill{
+    background-color: #ff4c68;
+}
+.skill-head{
+    text-align: center;
+    color: #fff;
+}
+h4{
+    color: #fff;
+}
+#project{
+    background-image: url(../images/head.jfif);
+    color: #fff;
+    padding: 5% 0;
+}
+p{
+    font-size: 1.2rem;
+    line-height: 1.2;
+    word-spacing: 3px;
+    letter-spacing: 2px;
+}
+.certi-img{
+    width: 80%;
+}
+
+#footer{
+   text-align: center;
+    padding: 7% 15%;
+    background-color: #ff4c90;
+    color: #fff;
+}
+
+.social-icon{
+    margin: 20px 10px;
+}
+.footer-p{
+    padding-top: 20px;
+}
